@@ -1,4 +1,3 @@
-bpython
 fpdf
-pip-tools
+pillow
 qrcode
