@@ -1,0 +1,9 @@
+[FORMAT]
+indent-string='  '
+
+[BASIC]
+variable-rgx=(([a-z][a-z0-9_]{1,30})|(_[a-z0-9_]*))$
+
+[DESIGN]
+max-args=10
+max-locals=20
